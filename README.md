@@ -1,6 +1,6 @@
 ## Ola sou Roberto
-Atualemnte estou estudando Engenharia de Software.
-Venha conferir meu aprendizado
+##### Atualemnte estou estudando Engenharia de Software.
+##### Venha conferir meu aprendizado
 <div>
 <a href="https://wise-mountain-8a1.notion.site/d48b8e371f48418caf87f780f0df9915?v=8fa59ba7dadd40a693f2a3ccf3a61050" target="_blank"><img src="https://img.shields.io/badge/Estudo-000000?style=for-the-badge&logo=&logoColor=white" target="_blank"></a>   
 </div>
