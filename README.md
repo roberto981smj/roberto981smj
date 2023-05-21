@@ -12,5 +12,5 @@
 </div>
 <div>
 <a href="https://www.linkedin.com/in/roberto-smj/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-<a href = "mailto:roberto.smj981@icloud.com"><img src="https://img.shields.io/badge/Icloud-000000?style=for-the-badge&logo=icloud&logoColor=white" target="_blank"></a>
+<a href = "mailto:roberto.smj981@icloud.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=icloud&logoColor=white" target="_blank"></a>
 </div>
